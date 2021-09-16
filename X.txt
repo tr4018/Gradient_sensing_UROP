@@ -1,0 +1,7 @@
+#pick_direction(0, 10)
+#datacreate() called:
+#receptornum=10
+#particlenum=20
+0.78 0.69 0.28
+0.93 0.70 0.32
+0.60 0.32 0.02
